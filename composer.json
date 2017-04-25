@@ -13,9 +13,8 @@
         }
     ],
     "autoload": {
-        "psr-0" : {
-            "Install_" : "lib/"
-        }
+       "psr-4": {
+          "": "lib/"
     },
     "extra": {
         "branch-alias": {
