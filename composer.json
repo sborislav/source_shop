@@ -5,12 +5,13 @@
     "keywords": ["templating"],
     "homepage": "https://github.com/sborislav/source_shop-install",
     "license": "MIT",
-    "authors":
-    {
-        "name": "Sorokin Borislav",
-        "homepage": "https://sborislav.xyz",
-        "role": "PHP Developer"
-    },
+    "authors":  [
+        {
+            "name": "Sorokin Borislav",
+            "homepage": "https://sborislav.xyz",
+            "role": "PHP Developer"
+        }
+    ],
     "autoload": {
         "psr-0" : {
             "Install_" : "lib/"
