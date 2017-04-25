@@ -10,7 +10,7 @@
             "name": "Sorokin Borislav",
             "homepage": "https://sborislav.xyz",
             "role": "PHP Developer"
-        },
+        }
     "autoload": {
         "psr-0" : {
             "Install_" : "lib/"
