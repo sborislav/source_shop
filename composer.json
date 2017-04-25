@@ -15,6 +15,7 @@
     "autoload": {
        "psr-4": {
           "": "lib/"
+       }
     },
     "extra": {
         "branch-alias": {
