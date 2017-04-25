@@ -1,0 +1,27 @@
+{
+    "name": "shop_game",
+    "type": "library",
+    "description": "Магазин товаров игровых серверов",
+    "keywords": ["templating"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sorokin Borislav",
+            "email": "",
+            "homepage": "https://sborislav.xyz",
+            "role": "PHP Developer"
+        },
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Install_" : "install/",
+
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
