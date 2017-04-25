@@ -3,12 +3,11 @@
     "type": "library",
     "description": "Магазин товаров игровых серверов",
     "keywords": ["templating"],
-    "homepage": "",
+    "homepage": "https://github.com/sborislav/source_shop-install",
     "license": "MIT",
     "authors":
         {
             "name": "Sorokin Borislav",
-            "email": "",
             "homepage": "https://sborislav.xyz",
             "role": "PHP Developer"
         },
