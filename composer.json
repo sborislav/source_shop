@@ -5,14 +5,13 @@
     "keywords": ["templating"],
     "homepage": "",
     "license": "MIT",
-    "authors": [
+    "authors":
         {
             "name": "Sorokin Borislav",
             "email": "",
             "homepage": "https://sborislav.xyz",
             "role": "PHP Developer"
         },
-    ],
     "autoload": {
         "psr-0" : {
             "Install_" : "install/",
