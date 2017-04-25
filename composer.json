@@ -1,5 +1,5 @@
 {
-    "name": "shop_game/istall",
+    "name": "shop_game/install",
     "type": "library",
     "description": "Магазин товаров игровых серверов",
     "keywords": ["templating"],
