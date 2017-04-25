@@ -1,5 +1,5 @@
 {
-    "name": "shop_game",
+    "name": "shop_game/istall",
     "type": "library",
     "description": "Магазин товаров игровых серверов",
     "keywords": ["templating"],
@@ -14,7 +14,7 @@
         },
     "autoload": {
         "psr-0" : {
-            "Install_" : "install/"
+            "Install_" : "lib/"
         }
     },
     "extra": {
